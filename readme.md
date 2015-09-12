@@ -35,4 +35,4 @@ WEBアプリケーションのサンプルプログラムです。
 * Java SE Development Kit 8u25 (JDK 8 Update 25)
 * Apache Tomcat 8.0.18
 
-EOF
+E-O-F
